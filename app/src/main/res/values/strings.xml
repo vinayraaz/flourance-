@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssignmentTask</string>
+    <string name="deposit_details">INR amount will be deducted from your Spark \n Saving Account balance. Please maintain \n sufficient balance before processing.</string>
+    <string name="pass_details">Enter the 5-digit One Time \n  Password (OTP) sent by Spark</string>
+</resources>
